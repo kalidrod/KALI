@@ -17,7 +17,7 @@ A simple Bash script to install **Kali Linux (rolling) with an XFCE4 desktop** o
 Or clone this repo and run the script directly:
 
 ```bash
-https://github.com/kalidrod/KALI.git
+git clone https://github.com/kalidrod/KALI.git
 cd KALI && bash install.sh
 ```
 
